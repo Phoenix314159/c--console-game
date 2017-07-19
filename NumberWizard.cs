@@ -9,6 +9,7 @@ public class NumberWizard : MonoBehaviour {
 		print ("Welcome to Number Wizard");
 		print ("Pick a Number in your head but don't tell me!");
 		print ("Only pick a whole number!");
+		print ("Cool Man!");
 
 		int max = 1000;
 		int min = 1;
